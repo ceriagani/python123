@@ -1,0 +1,6 @@
+mysqlclient
+Flask
+Flask-Cors
+Flask-Mysql
+mysqlclient
+wheel
